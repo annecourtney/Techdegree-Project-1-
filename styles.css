@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: pink;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -85,8 +85,8 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: red;
+  background-color: white;
+  color: pink;
 }
 .card {
   margin: 30px;
