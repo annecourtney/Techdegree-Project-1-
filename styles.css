@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: #E08989;
 }
 a:hover {
   color: #6633ff;
@@ -78,7 +78,7 @@ header .profile-image:hover {
 }
 .tag {
   background-color: #efefef;
-  color: pink;
+  color: #E08989;
   padding: 10px;
   border-radius: 5px;
   display: table;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: white;
-  color: pink;
+  color: #E08989;
 }
 .card {
   margin: 30px;
